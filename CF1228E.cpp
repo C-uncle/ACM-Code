@@ -1,3 +1,4 @@
+// 题意：有一个n*n的格子，你可以往格子填1~k中任意数字，需要保证每行，每列的最小值都是1.
 #include <iostream>
 using namespace std;
 typedef long long int ll;
